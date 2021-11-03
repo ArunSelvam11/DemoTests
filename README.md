@@ -11,3 +11,6 @@ or
 
 ### Run individual file
 `npx wdio --spec {file_name}`
+
+### Webdriver IO  
+Refer Webdriver IO : https://webdriver.io/ for further installation details
